@@ -1,4 +1,4 @@
-#  Eu sou Alisson Vinícius
+#  Alisson Vinícius
 
 🎓 Estudante de Engenharia da Computação na UFPE
 💻 Foco em desenvolvimento de software e inteligência artificial  
