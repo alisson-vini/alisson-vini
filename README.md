@@ -8,7 +8,7 @@ Meu nome é Alisson Vinícius, tenho 19 anos e estou atualmente cursando Engenha
 
 ### 📬 Contato
 
-[![Gmail](https://img.shields.io/badge/-alissonvini075@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissonvini075@gmail.com)
+[![Gmail](https://img.shields.io/badge/-alissonvini075@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=alissonvini075@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Alisson%20Vinicius-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
 
 ---
