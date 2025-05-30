@@ -1,6 +1,6 @@
 # Alisson Vinícius
 
-**`Estudante de Engenharia da Computação na UFPE`**
+**`Estudante de Ciência da Computação na UFPE`**
 
 Meu nome é Alisson Vinícius, tenho 19 anos e estou atualmente cursando Engenharia da Computação na UFPE. Fui por 3 anos seguidos ganhador de menção honrosa na OBEMEP. Sempre gostei muito de desafios lógicos, matemática e tecnologia — em especial na parte de programação.
 
@@ -8,8 +8,14 @@ Meu nome é Alisson Vinícius, tenho 19 anos e estou atualmente cursando Engenha
 
 ### 📬 Contato
 
-[![Gmail](https://img.shields.io/badge/-alissonvini075@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=alissonvini075@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-Alisson%20Vinícius-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-vin%C3%ADcius-610b4a332/)
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&to=alissonvini075@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-alissonvini075@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alisson-vin%C3%ADcius-610b4a332/" target="_blank">
+    <img src="https://img.shields.io/badge/-Alisson%20Vinícius-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -81,4 +87,3 @@ Meu nome é Alisson Vinícius, tenho 19 anos e estou atualmente cursando Engenha
 - Redes Neurais e PyTorch  
 - SQL e manipulação de bancos de dados  
 - Git e GitHub para versionamento  
-
