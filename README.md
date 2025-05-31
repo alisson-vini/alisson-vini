@@ -2,8 +2,7 @@
 
 **`Estudante de Ciência da Computação na UFPE`**
 
-Meu nome é Alisson Vinícius, tenho 19 anos e sou estudante de Ciência da Computação na UFPE, sempre fui apaixonado por lógica, matemática e tecnologia, com foco especial em programação e resolução de problemas desafiadores,fui premiado com Menção Honrosa na OBMEP por três anos consecutivos, o que reforçou meu interesse por raciocínio lógico e algoritmos.
-Estou constantemente buscando aprender e aplicar conceitos de programação, inteligência artificial e desenvolvimento de software, aqui você encontra projetos que refletem meu aprendizado, minha evolução e minha paixão por tecnologia.
+Meu nome é Alisson Vinícius, tenho 19 anos e sou estudante de Ciência da Computação na UFPE. Tenho grande interesse por lógica, matemática e tecnologia, com foco em programação e resolução de problemas. Fui premiado com Menção Honrosa na OBMEP por três anos consecutivos, o que reforçou meu gosto por raciocínio lógico e algoritmos. Atualmente, busco me aprofundar em programação, inteligência artificial e desenvolvimento de software, e compartilho aqui projetos que refletem meu aprendizado e evolução nessas áreas.
 
 ---
 
