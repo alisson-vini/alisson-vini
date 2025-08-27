@@ -80,6 +80,9 @@ Meu nome é Alisson Vinícius, tenho 19 anos e sou estudante de Ciência da Comp
 
 <br/><br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-vini&layout=compact)
+
+
 ---
 
 ### 📚 Atualmente estudando
