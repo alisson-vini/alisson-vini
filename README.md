@@ -77,16 +77,23 @@ Meu nome é Alisson Vinícius, tenho 19 anos e sou estudante de Ciência da Comp
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
 <br/><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-vini&layout=compact)
-
 
 ---
 
 ### 📚 Atualmente estudando
 
 - Redes Neurais e PyTorch  
-- SQL e manipulação de bancos de dados  
-- Git e GitHub para versionamento  
+- SQL e manipulação de bancos de dados
+- Análise de dados (área na qual trabalho atualmente)
