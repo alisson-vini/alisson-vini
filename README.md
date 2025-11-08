@@ -63,6 +63,22 @@ Meu nome é Alisson Vinícius, tenho 19 anos e sou estudante de Ciência da Comp
 />
 <img 
     align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Scikit-learn" 
+    title="Scikit-learn"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML" 
     title="HTML"
     width="30px" 
@@ -88,7 +104,9 @@ Meu nome é Alisson Vinícius, tenho 19 anos e sou estudante de Ciência da Comp
 
 <br/><br/>
 
-### Estatísticas
+---
+
+### 📊 Estatísticas
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alisson-vini&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Alisson Vinícius GitHub Stats" />
@@ -102,6 +120,6 @@ Meu nome é Alisson Vinícius, tenho 19 anos e sou estudante de Ciência da Comp
 
 ### 📚 Atualmente estudando
 
-- Redes Neurais e PyTorch  
-- SQL e manipulação de bancos de dados
+- Machine Learning  
+- Pandas para análise e manipulação de dados  
 - Análise de dados (área na qual trabalho atualmente)
