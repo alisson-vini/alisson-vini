@@ -106,18 +106,6 @@ Meu nome é Alisson Vinícius, tenho 19 anos e sou estudante de Ciência da Comp
 
 ---
 
-### 📊 Estatísticas
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisson-vini&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Alisson Vinícius GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-vini&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
-
----
-
 ### 📚 Atualmente estudando
 
 - Machine Learning  
